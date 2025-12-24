@@ -253,7 +253,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onAuth }) => {
           <Dna className="w-5 h-5 text-indigo-600" />
           <span className="font-bold text-slate-900">IdeaSynthesizer</span>
         </div>
-        <p className="text-sm text-slate-500">Empowering cross-disciplinary discovery since 2024.</p>
+        <p className="text-sm text-slate-500">Empowering cross-disciplinary discovery since 2025.</p>
       </footer>
     </div>
   );
